@@ -1,0 +1,3 @@
+I tweaked my scan code a bit, this one creates 138 (2*69) as the case with methane, but does it in one go. It still will have duplicates, especially for dx>0, dy=0. 
+
+

@@ -1,0 +1,3 @@
+The two folders contain SCAN information - one with disp in y, dy>0 and the other with dy<0. There are duplicates, especially at dy=0 for different dx. 
+
+

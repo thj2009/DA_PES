@@ -1,0 +1,1728 @@
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/1
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      3.86115      2.52595     18.32516         0.001748      0.015427      0.022352
+      4.56656      1.88522     18.86428         0.033475     -0.009994      0.029098
+      2.85749      2.41402     18.75017        -0.017378     -0.003360     -0.011145
+      3.84378      2.22562     17.26565        -0.021549     -0.012497     -0.005137
+      4.17815      3.57225     18.39236         0.012565      0.015077      0.024239
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/2
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      3.92352      2.63398     18.32516         0.006433      0.016088      0.030554
+      4.62892      1.99325     18.86428         0.032958     -0.010456      0.028635
+      2.91985      2.52204     18.75017        -0.017034     -0.003787     -0.011027
+      3.90615      2.33365     17.26565        -0.021789     -0.013652     -0.011178
+      4.24052      3.68027     18.39236         0.012704      0.015207      0.021501
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/3
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      3.98589      2.74200     18.32516         0.003618      0.009711      0.031623
+      4.69129      2.10127     18.86428         0.032572     -0.010458      0.028802
+      2.98222      2.63007     18.75017        -0.016477     -0.003785     -0.010282
+      3.96852      2.44167     17.26565        -0.021794     -0.014112     -0.014066
+      4.30289      3.78829     18.39236         0.013072      0.015985      0.019063
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/4
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.04826      2.85002     18.32516         0.007267      0.012654      0.032813
+      4.75366      2.20929     18.86428         0.031941     -0.010587      0.029295
+      3.04459      2.73809     18.75017        -0.015963     -0.003949     -0.009246
+      4.03088      2.54969     17.26565        -0.022048     -0.014196     -0.013952
+      4.36525      3.89631     18.39236         0.013155      0.016499      0.017065
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/5
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.11062      2.95804     18.32516         0.005249      0.002564      0.030937
+      4.81602      2.31731     18.86428         0.031534     -0.010432      0.030325
+      3.10695      2.84611     18.75017        -0.015375     -0.003444     -0.007790
+      4.09325      2.65771     17.26565        -0.022041     -0.013330     -0.011188
+      4.42762      4.00434     18.39236         0.013513      0.017831      0.015730
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/6
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.17299      3.06607     18.32516        -0.000788     -0.008373      0.021221
+      4.87839      2.42534     18.86428         0.031133     -0.009646      0.031762
+      3.16932      2.95413     18.75017        -0.014438     -0.002745     -0.005893
+      4.15562      2.76574     17.26565        -0.021954     -0.011848     -0.004504
+      4.48999      4.11236     18.39236         0.013839      0.018953      0.015348
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/7
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.23536      3.17409     18.32516        -0.005360     -0.022249      0.015143
+      4.94076      2.53336     18.86428         0.030947     -0.008740      0.033312
+      3.23169      3.06216     18.75017        -0.013730     -0.001776     -0.004067
+      4.21798      2.87376     17.26565        -0.021926     -0.009800      0.003947
+      4.55235      4.22038     18.39236         0.014046      0.020301      0.015552
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/8
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.29772      3.28211     18.32516        -0.013083     -0.021131      0.004793
+      5.00312      2.64138     18.86428         0.030893     -0.008244      0.035052
+      3.29405      3.17018     18.75017        -0.013061     -0.001151     -0.002162
+      4.28035      2.98178     17.26565        -0.021774     -0.007874      0.014351
+      4.61472      4.32840     18.39236         0.014335      0.021201      0.016495
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/9
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.36009      3.39013     18.32516        -0.011598     -0.024286     -0.009663
+      5.06549      2.74940     18.86428         0.030636     -0.007404      0.036711
+      3.35642      3.27820     18.75017        -0.012793     -0.000328     -0.000291
+      4.34272      3.08980     17.26565        -0.021882     -0.005679      0.025874
+      4.67709      4.43643     18.39236         0.014261      0.021908      0.018341
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/10
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.42246      3.49816     18.32516        -0.013520     -0.030415     -0.022112
+      5.12786      2.85743     18.86428         0.030635     -0.006437      0.038202
+      3.41879      3.38622     18.75017        -0.012651      0.000604      0.001304
+      4.40508      3.19783     17.26565        -0.021842     -0.003208      0.037264
+      4.73945      4.54445     18.39236         0.014232      0.022574      0.020646
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/11
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.48482      3.60618     18.32516        -0.015925     -0.029988     -0.032850
+      5.19022      2.96545     18.86428         0.030935     -0.005782      0.039423
+      3.48115      3.49425     18.75017        -0.012656      0.001195      0.002336
+      4.46745      3.30585     17.26565        -0.021708     -0.001152      0.047691
+      4.80182      4.65247     18.39236         0.014183      0.022978      0.023193
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/12
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.54719      3.71420     18.35562         0.010794     -0.047978      0.037367
+      5.25259      3.07347     18.89862        -0.005083      0.021595      0.000519
+      3.54352      3.60227     18.78203        -0.002034      0.001474     -0.008296
+      4.52982      3.41387     17.29717        -0.014794      0.002060      0.039574
+      4.86419      4.76049     18.42748         0.010845      0.015169      0.009242
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/13
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      3.98589      2.52595     18.32516         0.002374      0.019741      0.027902
+      4.69129      1.88522     18.86428         0.033816     -0.011201      0.027394
+      2.98222      2.41402     18.75017        -0.016708     -0.003108     -0.010781
+      3.96852      2.22562     17.26565        -0.021826     -0.013742     -0.009485
+      4.30289      3.57225     18.39236         0.012436      0.014912      0.023201
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/14
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.04826      2.63398     18.32516        -0.000414      0.020367      0.032624
+      4.75366      1.99325     18.86428         0.033312     -0.011589      0.027164
+      3.04459      2.52204     18.75017        -0.016052     -0.003491     -0.010343
+      4.03088      2.33365     17.26565        -0.021830     -0.014572     -0.013917
+      4.36525      3.68027     18.39236         0.012644      0.015149      0.020472
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/15
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.11062      2.74200     18.32516         0.003245      0.013924      0.036543
+      4.81602      2.10127     18.86428         0.032802     -0.011531      0.027540
+      3.10695      2.63007     18.75017        -0.015598     -0.003367     -0.009493
+      4.09325      2.44167     17.26565        -0.022045     -0.014674     -0.015492
+      4.42762      3.78829     18.39236         0.012748      0.016059      0.018139
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/16
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.17299      2.85002     18.32516         0.004393      0.009132      0.032126
+      4.87839      2.20929     18.86428         0.032161     -0.011503      0.028508
+      3.16932      2.73809     18.75017        -0.015007     -0.003110     -0.008057
+      4.15562      2.54969     17.26565        -0.022104     -0.014064     -0.013696
+      4.48999      3.89631     18.39236         0.012900      0.016869      0.016479
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/17
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.23536      2.95804     18.32516        -0.003012      0.001089      0.029279
+      4.94076      2.31731     18.86428         0.031923     -0.011263      0.029797
+      3.23169      2.84611     18.75017        -0.014381     -0.002657     -0.006372
+      4.21798      2.65771     17.26565        -0.021990     -0.012971     -0.009320
+      4.55235      4.00434     18.39236         0.013427      0.018348      0.015511
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/18
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.29772      3.06607     18.32516        -0.008861     -0.014094      0.020173
+      5.00312      2.42534     18.86428         0.031436     -0.010038      0.031280
+      3.29405      2.95413     18.75017        -0.013398     -0.001708     -0.004534
+      4.28035      2.76574     17.26565        -0.021941     -0.011039     -0.001496
+      4.61472      4.11236     18.39236         0.013628      0.019556      0.015283
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/19
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.36009      3.17409     18.32516        -0.011769     -0.025621      0.011774
+      5.06549      2.53336     18.86428         0.031165     -0.009144      0.033124
+      3.35642      3.06216     18.75017        -0.012861     -0.000827     -0.002702
+      4.34272      2.87376     17.26565        -0.021922     -0.008849      0.008165
+      4.67709      4.22038     18.39236         0.013810      0.020820      0.015856
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/20
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.42246      3.28211     18.32516        -0.013598     -0.024820      0.000272
+      5.12786      2.64138     18.86428         0.030964     -0.008482      0.034975
+      3.41879      3.17018     18.75017        -0.012405     -0.000236     -0.000875
+      4.40508      2.98178     17.26565        -0.021916     -0.006769      0.019188
+      4.73945      4.32840     18.39236         0.013893      0.021754      0.017210
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/21
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.48482      3.39013     18.32516        -0.018534     -0.026403     -0.012217
+      5.19022      2.74940     18.86428         0.031123     -0.007606      0.036662
+      3.48115      3.27820     18.75017        -0.012102      0.000467      0.000818
+      4.46745      3.08980     17.26565        -0.021751     -0.004622      0.030758
+      4.80182      4.43643     18.39236         0.013981      0.022372      0.019309
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/22
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.54719      3.49816     18.32516        -0.016544     -0.033682     -0.025961
+      5.25259      2.85743     18.86428         0.031156     -0.006483      0.038250
+      3.54352      3.38622     18.75017        -0.012187      0.001373      0.002134
+      4.52982      3.19783     17.26565        -0.021814     -0.002152      0.042106
+      4.86419      4.54445     18.39236         0.013863      0.023077      0.021819
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/23
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.60956      3.60618     18.34466        -0.002827     -0.011983      0.007534
+      5.31496      2.96545     18.88388         0.026270     -0.010890      0.042765
+      3.60589      3.49425     18.76929        -0.017226     -0.003996      0.009419
+      4.59219      3.30585     17.28706        -0.017245      0.003246      0.004948
+      4.92655      4.65247     18.41700         0.010671      0.013769      0.006255
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/24
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.67192      3.71420     18.33455         0.072343     -0.041471     -0.041167
+      5.37733      3.07347     18.87726        -0.012010      0.018794      0.005102
+      3.66825      3.60227     18.75380        -0.074412     -0.005292      0.048695
+      4.65455      3.41387     17.27546         0.002385      0.004635      0.049852
+      4.98892      4.76049     18.40514         0.009181      0.017431      0.014312
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/25
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.11062      2.52595     18.32516        -0.000207      0.018401      0.029945
+      4.81602      1.88522     18.86428         0.034096     -0.012180      0.026258
+      3.10695      2.41402     18.75017        -0.015656     -0.002731     -0.009764
+      4.09325      2.22562     17.26565        -0.021951     -0.013962     -0.010762
+      4.42762      3.57225     18.39236         0.012337      0.014899      0.022287
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/26
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.17299      2.63398     18.32516         0.001180      0.020083      0.031068
+      4.87839      1.99325     18.86428         0.033544     -0.012529      0.026439
+      3.16932      2.52204     18.75017        -0.015143     -0.002896     -0.009012
+      4.15562      2.33365     17.26565        -0.022042     -0.014531     -0.013687
+      4.48999      3.68027     18.39236         0.012365      0.015418      0.019846
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/27
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.23536      2.74200     18.32516        -0.000180      0.014589      0.032688
+      4.94076      2.10127     18.86428         0.032849     -0.012432      0.027001
+      3.23169      2.63007     18.75017        -0.014477     -0.002708     -0.007882
+      4.21798      2.44167     17.26565        -0.022026     -0.014251     -0.013666
+      4.55235      3.78829     18.39236         0.012602      0.016371      0.017750
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/28
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.29772      2.85002     18.32516        -0.001062      0.006880      0.028288
+      5.00312      2.20929     18.86428         0.032370     -0.012295      0.028248
+      3.29405      2.73809     18.75017        -0.014095     -0.002353     -0.006279
+      4.28035      2.54969     17.26565        -0.022075     -0.013388     -0.010799
+      4.61472      3.89631     18.39236         0.012801      0.017627      0.016344
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/29
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.36009      2.95804     18.32516        -0.006643     -0.005831      0.023109
+      5.06549      2.31731     18.86428         0.032037     -0.011638      0.029758
+      3.35642      2.84611     18.75017        -0.013404     -0.001668     -0.004567
+      4.34272      2.65771     17.26565        -0.022064     -0.011773     -0.004771
+      4.67709      4.00434     18.39236         0.013135      0.019096      0.015693
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/30
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.42246      3.06607     18.32516        -0.013922     -0.019007      0.013714
+      5.12786      2.42534     18.86428         0.031673     -0.010408      0.031521
+      3.41879      2.95413     18.75017        -0.012464     -0.000734     -0.002766
+      4.40508      2.76574     17.26565        -0.021903     -0.009619      0.004263
+      4.73945      4.11236     18.39236         0.013390      0.020205      0.015850
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/31
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.48482      3.17409     18.32516        -0.014491     -0.024750      0.003489
+      5.19022      2.53336     18.86428         0.031346     -0.009467      0.033451
+      3.48115      3.06216     18.75017        -0.012087      0.000032     -0.000941
+      4.46745      2.87376     17.26565        -0.021886     -0.007439      0.014563
+      4.80182      4.22038     18.39236         0.013519      0.021298      0.016852
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/32
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.54719      3.28211     18.32516        -0.017151     -0.031801     -0.007775
+      5.25259      2.64138     18.86428         0.031330     -0.008449      0.035352
+      3.54352      3.17018     18.75017        -0.011778      0.000819      0.000696
+      4.52982      2.98178     17.26565        -0.021777     -0.005087      0.025793
+      4.86419      4.32840     18.39236         0.013608      0.022362      0.018463
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/33
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.60956      3.39013     18.32516        -0.015140     -0.029760     -0.020496
+      5.31496      2.74940     18.86428         0.031329     -0.007542      0.037081
+      3.60589      3.27820     18.75017        -0.011849      0.001336      0.002111
+      4.59219      3.08980     17.26565        -0.021817     -0.003044      0.037221
+      4.92655      4.43643     18.39236         0.013542      0.022785      0.020754
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/34
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.67192      3.49816     18.32516        -0.018647     -0.033019     -0.034429
+      5.37733      2.85743     18.86428         0.031523     -0.006578      0.038555
+      3.66825      3.38622     18.75017        -0.011928      0.001998      0.003163
+      4.65455      3.19783     17.26565        -0.021601     -0.000938      0.047988
+      4.98892      4.54445     18.39236         0.013699      0.023310      0.023518
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/35
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.73429      3.60618     18.33830         0.027741     -0.026907     -0.015914
+      5.43969      2.96545     18.87925         0.008678      0.003017      0.023240
+      3.73062      3.49425     18.76095        -0.038407     -0.003751      0.023489
+      4.71692      3.30585     17.27974        -0.008916      0.005839      0.035206
+      5.05129      4.65247     18.40994         0.009781      0.015429      0.009614
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/36
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.79666      3.71420     18.34938        -0.008084     -0.011725     -0.015211
+      5.50206      3.07347     18.88860         0.027627     -0.008691      0.042673
+      3.79299      3.60227     18.77401        -0.016969     -0.001859      0.009490
+      4.77929      3.41387     17.29135        -0.017424      0.004426      0.026863
+      5.11365      4.76049     18.42042         0.011328      0.015592      0.015451
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/37
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.23536      2.52595     18.32516        -0.003020      0.024104      0.029037
+      4.94076      1.88522     18.86428         0.034247     -0.013201      0.025760
+      3.23169      2.41402     18.75017        -0.014498     -0.002408     -0.008194
+      4.21798      2.22562     17.26565        -0.021864     -0.013710     -0.009125
+      4.55235      3.57225     18.39236         0.012134      0.014995      0.021697
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/38
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.29772      2.63398     18.32516        -0.002971      0.021097      0.027904
+      5.00312      1.99325     18.86428         0.033562     -0.013396      0.026260
+      3.29405      2.52204     18.75017        -0.013949     -0.002314     -0.007126
+      4.28035      2.33365     17.26565        -0.021929     -0.013723     -0.010443
+      4.61472      3.68027     18.39236         0.012302      0.015852      0.019538
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/39
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.36009      2.74200     18.32516        -0.003110      0.017185      0.025136
+      5.06549      2.10127     18.86428         0.032981     -0.013369      0.027225
+      3.35642      2.63007     18.75017        -0.013541     -0.002149     -0.005723
+      4.34272      2.44167     17.26565        -0.022003     -0.013233     -0.009221
+      4.67709      3.78829     18.39236         0.012427      0.016956      0.017816
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/40
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.42246      2.85002     18.32516        -0.006055      0.001866      0.021689
+      5.12786      2.20929     18.86428         0.032499     -0.012697      0.028636
+      3.41879      2.73809     18.75017        -0.013022     -0.001534     -0.004193
+      4.40508      2.54969     17.26565        -0.021987     -0.011754     -0.004717
+      4.73945      3.89631     18.39236         0.012689      0.018264      0.016685
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/41
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.48482      2.95804     18.32516        -0.013638     -0.014856      0.015152
+      5.19022      2.31731     18.86428         0.032057     -0.011550      0.030229
+      3.48115      2.84611     18.75017        -0.012118     -0.000568     -0.002546
+      4.46745      2.65771     17.26565        -0.021804     -0.009756      0.002868
+      4.80182      4.00434     18.39236         0.012939      0.019553      0.016445
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/42
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.54719      3.06607     18.32516        -0.021006     -0.023715      0.004147
+      5.25259      2.42534     18.86428         0.031881     -0.010508      0.032204
+      3.54352      2.95413     18.75017        -0.011566      0.000199     -0.000729
+      4.52982      2.76574     17.26565        -0.021565     -0.007646      0.012123
+      4.86419      4.11236     18.39236         0.013260      0.020822      0.016923
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/43
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.60956      3.17409     18.32516        -0.019157     -0.025083     -0.002923
+      5.31496      2.53336     18.86428         0.031643     -0.009604      0.034073
+      3.60589      3.06216     18.75017        -0.011461      0.000841      0.000836
+      4.59219      2.87376     17.26565        -0.021610     -0.005601      0.022509
+      4.92655      4.22038     18.39236         0.013375      0.021785      0.018056
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/44
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.67192      3.28211     18.32516        -0.023679     -0.028531     -0.016056
+      5.37733      2.64138     18.86428         0.031670     -0.008457      0.035969
+      3.66825      3.17018     18.75017        -0.011248      0.001425      0.002299
+      4.65455      2.98178     17.26565        -0.021400     -0.003430      0.033726
+      4.98892      4.32840     18.39236         0.013574      0.022522      0.019988
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/45
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.73429      3.39013     18.32516        -0.023328     -0.030203     -0.030108
+      5.43969      2.74940     18.86428         0.031638     -0.007454      0.037691
+      3.73062      3.27820     18.75017        -0.011404      0.001965      0.003457
+      4.71692      3.08980     17.26565        -0.021376     -0.001391      0.044637
+      5.05129      4.43643     18.39236         0.013603      0.023033      0.022523
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/46
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.79666      3.49816     18.34068         0.050111     -0.037294     -0.016777
+      5.50206      2.85743     18.88291        -0.005711      0.012678      0.010931
+      3.79299      3.38622     18.76119        -0.060297     -0.004962      0.041299
+      4.77929      3.19783     17.28226        -0.000744      0.003552      0.029447
+      5.11365      4.54445     18.41227         0.008930      0.015976      0.009485
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/47
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.85902      3.60618     18.33469         0.067873     -0.039100     -0.036506
+      5.56443      2.96545     18.87735        -0.011171      0.017701      0.005370
+      3.85535      3.49425     18.75412        -0.072015     -0.005103      0.048493
+      4.84165      3.30585     17.27569         0.002560      0.005241      0.048732
+      5.17602      4.65247     18.40565         0.008929      0.017015      0.013590
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/48
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.92139      3.71420     18.33084         0.061560     -0.034500     -0.035514
+      5.62679      3.07347     18.87333        -0.007398      0.016249      0.008036
+      3.91772      3.60227     18.75068        -0.068355     -0.004131      0.045222
+      4.90402      3.41387     17.27217         0.000870      0.003019      0.044438
+      5.23839      4.76049     18.40152         0.009178      0.017624      0.017104
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/49
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.36009      2.52595     18.32516        -0.007878      0.024978      0.020744
+      5.06549      1.88522     18.86428         0.034176     -0.013940      0.026067
+      3.35642      2.41402     18.75017        -0.013447     -0.001846     -0.005892
+      4.34272      2.22562     17.26565        -0.021634     -0.012593     -0.004475
+      4.67709      3.57225     18.39236         0.012196      0.015374      0.021606
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/50
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.42246      2.63398     18.32516        -0.011441      0.019361      0.020840
+      5.12786      1.99325     18.86428         0.033580     -0.013923      0.026717
+      3.41879      2.52204     18.75017        -0.012768     -0.001563     -0.004762
+      4.40508      2.33365     17.26565        -0.021539     -0.012166     -0.004385
+      4.73945      3.68027     18.39236         0.012285      0.016326      0.019591
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/51
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.48482      2.74200     18.32516        -0.014905      0.016076      0.017904
+      5.19022      2.10127     18.86428         0.033203     -0.013750      0.027948
+      3.48115      2.63007     18.75017        -0.012377     -0.001415     -0.003305
+      4.46745      2.44167     17.26565        -0.021523     -0.011414     -0.001868
+      4.80182      3.78829     18.39236         0.012510      0.017544      0.018160
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/52
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.54719      2.85002     18.32516        -0.022387     -0.001274      0.012122
+      5.25259      2.20929     18.86428         0.032819     -0.012785      0.029538
+      3.54352      2.73809     18.75017        -0.011737     -0.000658     -0.001758
+      4.52982      2.54969     17.26565        -0.021331     -0.009638      0.003862
+      4.86419      3.89631     18.39236         0.012933      0.018887      0.017404
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/53
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.60956      2.95804     18.32516        -0.029287     -0.017934      0.004831
+      5.31496      2.31731     18.86428         0.032425     -0.011507      0.031249
+      3.60589      2.84611     18.75017        -0.010941      0.000226     -0.000272
+      4.59219      2.65771     17.26565        -0.021064     -0.007452      0.012089
+      4.92655      4.00434     18.39236         0.013200      0.020063      0.017486
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/54
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.67192      3.06607     18.32516        -0.024224     -0.023651     -0.004034
+      5.37733      2.42534     18.86428         0.031971     -0.010469      0.033246
+      3.66825      2.95413     18.75017        -0.010972      0.000867      0.001310
+      4.65455      2.76574     17.26565        -0.021205     -0.005458      0.021392
+      4.98892      4.11236     18.39236         0.013257      0.021355      0.018251
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/55
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.73429      3.17409     18.32516        -0.025432     -0.031175     -0.014658
+      5.43969      2.53336     18.86428         0.031815     -0.009194      0.035185
+      3.73062      3.06216     18.75017        -0.010864      0.001613      0.002673
+      4.71692      2.87376     17.26565        -0.021098     -0.003229      0.031868
+      5.05129      4.22038     18.39236         0.013383      0.022299      0.019693
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/56
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.79666      3.28211     18.32516        -0.021514     -0.031429     -0.025866
+      5.50206      2.64138     18.86428         0.031684     -0.008055      0.036920
+      3.79299      3.17018     18.75017        -0.011049      0.002047      0.003770
+      4.77929      2.98178     17.26565        -0.021082     -0.001355      0.042402
+      5.11365      4.32840     18.39236         0.013278      0.022788      0.021853
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/57
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.85902      3.39013     18.33948         0.028513     -0.037669     -0.022799
+      5.56443      2.74940     18.88077         0.005046      0.005774      0.019524
+      3.85535      3.27820     18.76102        -0.048526     -0.003496      0.033319
+      4.84165      3.08980     17.28086        -0.005416      0.003721      0.032153
+      5.17602      4.43643     18.41018         0.009989      0.017402      0.011716
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/58
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.92139      3.49816     18.33817         0.019939     -0.029713     -0.037497
+      5.62679      2.85743     18.87884         0.011422      0.000801      0.026413
+      3.91772      3.38622     18.76026        -0.042867     -0.003647      0.029088
+      4.90402      3.19783     17.27933        -0.007472      0.008166      0.045515
+      5.23839      4.54445     18.40926         0.010157      0.016520      0.012500
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/59
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.98376      3.60618     18.34901        -0.011030     -0.015264      0.045631
+      5.68916      2.96545     18.88959         0.016932      0.001600      0.029212
+      3.98009      3.49425     18.77498        -0.004090      0.000092      0.000276
+      4.96639      3.30585     17.29249        -0.017389     -0.004919     -0.010832
+      5.30076      4.65247     18.42126         0.010800      0.014053      0.011322
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/60
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.04612      3.71420     18.33105         0.048062     -0.030983     -0.042065
+      5.75153      3.07347     18.87329        -0.004492      0.013921      0.010795
+      4.04245      3.60227     18.75089        -0.067820     -0.004506      0.045655
+      5.02875      3.41387     17.27238         0.001322      0.004618      0.047175
+      5.36312      4.76049     18.40194         0.009556      0.017008      0.017681
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/61
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.48482      2.52595     18.32516        -0.018245      0.019266      0.012912
+      5.19022      1.88522     18.86428         0.034259     -0.014272      0.026906
+      3.48115      2.41402     18.75017        -0.012094     -0.001050     -0.003411
+      4.46745      2.22562     17.26565        -0.021135     -0.010510      0.002746
+      4.80182      3.57225     18.39236         0.012428      0.015990      0.021652
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/62
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.54719      2.63398     18.32516        -0.023201      0.018322      0.013413
+      5.25259      1.99325     18.86428         0.033765     -0.014186      0.027701
+      3.54352      2.52204     18.75017        -0.011508     -0.001007     -0.002211
+      4.52982      2.33365     17.26565        -0.021032     -0.010018      0.004041
+      4.86419      3.68027     18.39236         0.012500      0.016800      0.019953
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/63
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.60956      2.74200     18.32516        -0.030313      0.012000      0.007819
+      5.31496      2.10127     18.86428         0.033477     -0.013782      0.029222
+      3.60589      2.63007     18.75017        -0.011193     -0.000698     -0.000703
+      4.59219      2.44167     17.26565        -0.020777     -0.008957      0.007668
+      4.92655      3.78829     18.39236         0.012871      0.018202      0.018902
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/64
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.67192      2.85002     18.32516        -0.037105     -0.005298      0.001285
+      5.37733      2.20929     18.86428         0.033136     -0.012653      0.030879
+      3.66825      2.73809     18.75017        -0.010586      0.000118      0.000640
+      4.65455      2.54969     17.26565        -0.020577     -0.007013      0.014062
+      4.98892      3.89631     18.39236         0.013154      0.019615      0.018509
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/65
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.73429      2.95804     18.32516        -0.031231     -0.015432     -0.005373
+      5.43969      2.31731     18.86428         0.032370     -0.011420      0.032650
+      3.73062      2.84611     18.75017        -0.010299      0.000760      0.001922
+      4.71692      2.65771     17.26565        -0.020696     -0.004995      0.022509
+      5.05129      4.00434     18.39236         0.013011      0.020446      0.018885
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/66
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.79666      3.06607     18.32516        -0.027841     -0.026126     -0.016075
+      5.50206      2.42534     18.86428         0.032029     -0.010113      0.034658
+      3.79299      2.95413     18.75017        -0.010448      0.001463      0.003289
+      4.77929      2.76574     17.26565        -0.020781     -0.002906      0.031710
+      5.11365      4.11236     18.39236         0.013161      0.021845      0.019953
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/67
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.85902      3.17409     18.32516        -0.027177     -0.032516     -0.025503
+      5.56443      2.53336     18.86428         0.031841     -0.008714      0.036462
+      3.85535      3.06216     18.75017        -0.010571      0.002057      0.004331
+      4.84165      2.87376     17.26565        -0.020649     -0.000846      0.041531
+      5.17602      4.22038     18.39236         0.013247      0.022546      0.021554
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/68
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.92139      3.28211     18.34503        -0.014045     -0.032342      0.038291
+      5.62679      2.64138     18.88632         0.010622      0.006547      0.017692
+      3.91772      3.17018     18.77106        -0.002209      0.001067     -0.001883
+      4.90402      2.98178     17.28721        -0.016505     -0.002063      0.012576
+      5.23839      4.32840     18.41622         0.010991      0.015921      0.009724
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/69
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.98376      3.39013     18.33430         0.064738     -0.050207     -0.024957
+      5.68916      2.74940     18.87749        -0.015332      0.022246     -0.000251
+      3.98009      3.27820     18.75377        -0.070739     -0.003678      0.049417
+      4.96639      3.08980     17.27552         0.003583      0.001783      0.041291
+      5.30076      4.43643     18.40459         0.009133      0.018392      0.014516
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/70
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.04612      3.49816     18.33661        -0.006642     -0.026537     -0.012609
+      5.75153      2.85743     18.87660         0.020829     -0.003419      0.032580
+      4.04245      3.38622     18.76109        -0.018348     -0.001432      0.010400
+      5.02875      3.19783     17.27838        -0.014422      0.006183      0.034977
+      5.36312      4.54445     18.40790         0.011033      0.015760      0.012424
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/71
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.10849      3.60618     18.32846         0.040794     -0.039639      0.024108
+      5.81389      2.96545     18.87121        -0.007363      0.020154      0.005515
+      4.10482      3.49425     18.75037        -0.046062     -0.000960      0.030480
+      5.09112      3.30585     17.27101        -0.003697     -0.006512      0.011309
+      5.42549      4.65247     18.39928         0.009902      0.017786      0.017153
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/72
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.17086      3.71420     18.32862         0.042262     -0.028056      0.017722
+      5.87626      3.07347     18.87115        -0.005537      0.017901      0.007986
+      4.16719      3.60227     18.75019        -0.049706     -0.002036      0.032695
+      5.15349      3.41387     17.27122        -0.002968     -0.005838      0.010825
+      5.48786      4.76049     18.39975         0.009762      0.016386      0.018116
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/73
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.60956      2.52595     18.32516        -0.029973      0.016915      0.002625
+      5.31496      1.88522     18.86428         0.034418     -0.014400      0.028422
+      3.60589      2.41402     18.75017        -0.011111     -0.000472     -0.000690
+      4.59219      2.22562     17.26565        -0.020482     -0.008229      0.011697
+      4.92655      3.57225     18.39236         0.012632      0.016723      0.022069
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/74
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.67192      2.63398     18.32516        -0.034744      0.013174     -0.000003
+      5.37733      1.99325     18.86428         0.033775     -0.014027      0.029451
+      3.66825      2.52204     18.75017        -0.010495     -0.000423      0.000424
+      4.65455      2.33365     17.26565        -0.020337     -0.007361      0.014311
+      4.98892      3.68027     18.39236         0.012761      0.017512      0.020777
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/75
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.73429      2.74200     18.32516        -0.037473      0.005216     -0.007016
+      5.43969      2.10127     18.86428         0.033384     -0.013406      0.031010
+      3.73062      2.63007     18.75017        -0.010396      0.000044      0.001769
+      4.71692      2.44167     17.26565        -0.020269     -0.006047      0.018726
+      5.05129      3.78829     18.39236         0.012920      0.018904      0.020144
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/76
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.79666      2.85002     18.32516        -0.034395     -0.004911     -0.011724
+      5.50206      2.20929     18.86428         0.032805     -0.012316      0.032633
+      3.79299      2.73809     18.75017        -0.010257      0.000619      0.002897
+      4.77929      2.54969     17.26565        -0.020312     -0.004260      0.025223
+      5.11365      3.89631     18.39236         0.012960      0.020030      0.019994
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/77
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.85902      2.95804     18.32516        -0.034551     -0.014461     -0.018413
+      5.56443      2.31731     18.86428         0.032293     -0.011033      0.034456
+      3.85535      2.84611     18.75017        -0.010019      0.001174      0.003950
+      4.84165      2.65771     17.26565        -0.020188     -0.002367      0.033402
+      5.17602      4.00434     18.39236         0.013187      0.020834      0.020558
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/78
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.92139      3.06607     18.32516        -0.029777     -0.022291     -0.031648
+      5.62679      2.42534     18.86428         0.032003     -0.009733      0.036411
+      3.91772      2.95413     18.75017        -0.010352      0.001742      0.005055
+      4.90402      2.76574     17.26565        -0.020221     -0.000568      0.042133
+      5.23839      4.11236     18.39236         0.013186      0.021874      0.021876
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/79
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.98376      3.17409     18.33958        -0.005757     -0.018293      0.014119
+      5.68916      2.53336     18.87955         0.019845     -0.005100      0.033851
+      3.98009      3.06216     18.76319        -0.025743     -0.002321      0.019442
+      4.96639      2.87376     17.28212        -0.012856     -0.002114     -0.002191
+      5.30076      4.22038     18.41032         0.010962      0.016586      0.010963
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/80
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.04612      3.28211     18.33439         0.056791     -0.050337     -0.027759
+      5.75153      2.64138     18.87758        -0.014883      0.022227     -0.000133
+      4.04245      3.17018     18.75404        -0.068270     -0.003450      0.048566
+      5.02875      2.98178     17.27562         0.003448      0.001542      0.041053
+      5.36312      4.32840     18.40443         0.009479      0.018651      0.015061
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/81
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.10849      3.39013     18.35898         0.024753     -0.039169     -0.037155
+      5.81389      2.74940     18.90072         0.003088      0.012928      0.016501
+      4.10482      3.27820     18.78152        -0.038191     -0.000247      0.026869
+      5.09112      3.08980     17.30031        -0.007369      0.002989      0.048493
+      5.42549      4.43643     18.42824         0.011094      0.019714      0.021631
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/82
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.17086      3.49816     18.33320         0.064573     -0.045100     -0.020700
+      5.87626      2.85743     18.87632        -0.014798      0.021188      0.002158
+      4.16719      3.38622     18.75277        -0.070272     -0.004768      0.049125
+      5.15349      3.19783     17.27493         0.004633      0.003520      0.036962
+      5.48786      4.54445     18.40474         0.008828      0.016014      0.013090
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/83
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.23322      3.60618     18.33750         0.018580     -0.028666      0.000187
+      5.93863      2.96545     18.87918         0.003364      0.007199      0.016881
+      4.22956      3.49425     18.76095        -0.030978     -0.004190      0.018945
+      5.21585      3.30585     17.27954        -0.006381      0.009616      0.035426
+      5.55022      4.65247     18.41134         0.009067      0.011011      0.006356
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/84
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.29559      3.71420     18.33062         0.058078     -0.022307     -0.042439
+      6.00099      3.07347     18.87280        -0.003578      0.012788      0.012366
+      4.29192      3.60227     18.75054        -0.067372     -0.005427      0.045596
+      5.27822      3.41387     17.27228         0.001573      0.005472      0.045365
+      5.61259      4.76049     18.40200         0.009156      0.014563      0.017732
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/85
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.73429      2.52595     18.32516        -0.036904      0.013908     -0.008999
+      5.43969      1.88522     18.86428         0.034127     -0.014127      0.030279
+      3.73062      2.41402     18.75017        -0.010316     -0.000056      0.001807
+      4.71692      2.22562     17.26565        -0.019925     -0.005503      0.022163
+      5.05129      3.57225     18.39236         0.012794      0.017417      0.022837
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/86
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.79666      2.63398     18.32516        -0.034237      0.007832     -0.012476
+      5.50206      1.99325     18.86428         0.033306     -0.013520      0.031409
+      3.79299      2.52204     18.75017        -0.010116      0.000185      0.002807
+      4.77929      2.33365     17.26565        -0.019978     -0.004455      0.025480
+      5.11365      3.68027     18.39236         0.012674      0.018116      0.021948
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/87
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.85902      2.74200     18.32516        -0.036552      0.000855     -0.015634
+      5.56443      2.10127     18.86428         0.032828     -0.012597      0.032841
+      3.85535      2.63007     18.75017        -0.009805      0.000589      0.003722
+      4.84165      2.44167     17.26565        -0.019814     -0.003036      0.030392
+      5.17602      3.78829     18.39236         0.012883      0.019216      0.021432
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/88
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.92139      2.85002     18.32516        -0.039027     -0.008758     -0.022989
+      5.62679      2.20929     18.86428         0.032565     -0.011514      0.034660
+      3.91772      2.73809     18.75017        -0.009865      0.001048      0.004748
+      4.90402      2.54969     17.26565        -0.019646     -0.001439      0.036598
+      5.23839      3.89631     18.39236         0.013171      0.020396      0.021560
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/89
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.98376      2.95804     18.32516        -0.036283     -0.016729     -0.029898
+      5.68916      2.31731     18.86428         0.032201     -0.010278      0.036359
+      3.98009      2.84611     18.75017        -0.009966      0.001407      0.005535
+      4.96639      2.65771     17.26565        -0.019611      0.000285      0.043869
+      5.30076      4.00434     18.39236         0.013285      0.021286      0.022295
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/90
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.04612      3.06607     18.34057        -0.009298     -0.004020      0.031572
+      5.75153      2.42534     18.88039         0.021049     -0.007248      0.036765
+      4.04245      2.95413     18.76427        -0.024586     -0.002975      0.020414
+      5.02875      2.76574     17.28391        -0.012806     -0.005728     -0.023955
+      5.36312      4.11236     18.41174         0.010798      0.015359      0.009660
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/91
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.10849      3.17409     18.33430         0.053507     -0.051114     -0.028115
+      5.81389      2.53336     18.87751        -0.014947      0.022190     -0.000333
+      4.10482      3.06216     18.75416        -0.066117     -0.003294      0.047343
+      5.09112      2.87376     17.27556         0.003315      0.001829      0.040559
+      5.42549      4.22038     18.40430         0.009551      0.018288      0.014858
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/92
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.17086      3.28211     18.33105         0.068986     -0.042226      0.047812
+      5.87626      2.64138     18.87581        -0.029057      0.034815     -0.013345
+      4.16719      3.17018     18.75123        -0.063786     -0.002208      0.046226
+      5.15349      2.98178     17.27430         0.005177     -0.012752     -0.011187
+      5.48786      4.32840     18.40206         0.008846      0.017447      0.013257
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/93
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.23322      3.39013     18.33460         0.057011     -0.044354     -0.031619
+      5.93863      2.74940     18.87737        -0.011170      0.018814      0.006318
+      4.22956      3.27820     18.75456        -0.066089     -0.004554      0.047028
+      5.21585      3.08980     17.27603         0.003026      0.005549      0.045802
+      5.55022      4.43643     18.40566         0.009513      0.016778      0.014511
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/94
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.29559      3.49816     18.33065         0.046490     -0.041159     -0.043303
+      6.00099      2.85743     18.87301        -0.004916      0.015981      0.010930
+      4.29192      3.38622     18.75097        -0.062312     -0.003626      0.043414
+      5.27822      3.19783     17.27225         0.000885      0.004900      0.048966
+      5.61259      4.54445     18.40109         0.010031      0.016885      0.018187
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/95
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.35796      3.60618     18.33050         0.052406     -0.035949     -0.040803
+      6.06336      2.96545     18.87269        -0.003418      0.014289      0.012732
+      4.35429      3.49425     18.75080        -0.063259     -0.004442      0.043409
+      5.34059      3.30585     17.27209         0.000642      0.004785      0.045608
+      5.67496      4.65247     18.40142         0.010120      0.016720      0.018528
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/96
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.42033      3.71420     18.33032         0.061052     -0.023050     -0.041600
+      6.12573      3.07347     18.87252        -0.003580      0.013096      0.011936
+      4.41666      3.60227     18.75044        -0.065530     -0.005699      0.043815
+      5.40295      3.41387     17.27198         0.001363      0.006184      0.046731
+      5.73732      4.76049     18.40184         0.009267      0.013680      0.017049
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/97
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.85902      2.52595     18.32516        -0.034860      0.005790     -0.020935
+      5.56443      1.88522     18.86428         0.033426     -0.013379      0.032430
+      3.85535      2.41402     18.75017        -0.010131      0.000446      0.004051
+      4.84165      2.22562     17.26565        -0.019609     -0.002533      0.033100
+      5.17602      3.57225     18.39236         0.012758      0.018212      0.023741
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/98
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.92139      2.63398     18.32516        -0.038173      0.001819     -0.024337
+      5.62679      1.99325     18.86428         0.032960     -0.012709      0.033645
+      3.91772      2.52204     18.75017        -0.009910      0.000679      0.004812
+      4.90402      2.33365     17.26565        -0.019397     -0.001481      0.036522
+      5.23839      3.68027     18.39236         0.012993      0.018948      0.023140
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/99
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.98376      2.74200     18.32516        -0.037229     -0.007308     -0.029210
+      5.68916      2.10127     18.86428         0.032555     -0.011638      0.035154
+      3.98009      2.63007     18.75017        -0.009947      0.001038      0.005560
+      4.96639      2.44167     17.26565        -0.019237     -0.000110      0.041244
+      5.30076      3.78829     18.39236         0.013060      0.019940      0.022927
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/100
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.04612      2.85002     18.32516        -0.033507     -0.011419     -0.035373
+      5.75153      2.20929     18.86428         0.031974     -0.010613      0.036774
+      4.04245      2.73809     18.75017        -0.010194      0.001264      0.006189
+      5.02875      2.54969     17.26565        -0.019245      0.001205      0.046912
+      5.36312      3.89631     18.39236         0.013116      0.020725      0.023238
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/101
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.10849      2.95804     18.33625         0.051829     -0.041180     -0.038453
+      5.81389      2.31731     18.87904        -0.011751      0.017901      0.002459
+      4.10482      2.84611     18.75585        -0.067998     -0.004151      0.049216
+      5.09112      2.65771     17.27702         0.003276      0.004525      0.049015
+      5.42549      4.00434     18.40580         0.009568      0.017878      0.015675
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/102
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.17086      3.06607     18.33460         0.048778     -0.046038     -0.029627
+      5.87626      2.42534     18.87770        -0.014005      0.021179      0.000758
+      4.16719      2.95413     18.75450        -0.065416     -0.003604      0.047273
+      5.15349      2.76574     17.27581         0.003381      0.002601      0.042246
+      5.48786      4.11236     18.40447         0.009782      0.018019      0.015369
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/103
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.23322      3.17409     18.33158         0.070054     -0.049650      0.021129
+      5.93863      2.53336     18.87604        -0.026894      0.032630     -0.010741
+      4.22956      3.06216     18.75146        -0.066619     -0.002708      0.048432
+      5.21585      2.87376     17.27401         0.005698     -0.006829      0.010960
+      5.55022      4.22038     18.40216         0.009096      0.017931      0.014572
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/104
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.29559      3.28211     18.33392         0.058953     -0.043067     -0.028981
+      6.00099      2.64138     18.87686        -0.013085      0.020138      0.004776
+      4.29192      3.17018     18.75382        -0.066420     -0.004789      0.047614
+      5.27822      2.98178     17.27539         0.003755      0.005173      0.044925
+      5.61259      4.32840     18.40481         0.009513      0.016613      0.014297
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/105
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.35796      3.39013     18.33072         0.046314     -0.042417     -0.040629
+      6.06336      2.74940     18.87321        -0.006209      0.017586      0.010496
+      4.35429      3.27820     18.75113        -0.061454     -0.003605      0.043678
+      5.34059      3.08980     17.27234         0.001000      0.003830      0.047153
+      5.67496      4.43643     18.40082         0.010492      0.017826      0.019077
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/106
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.42033      3.49816     18.35752        -0.025428     -0.009474      0.002523
+      6.12573      2.85743     18.89636         0.032442     -0.009974      0.049026
+      4.41666      3.38622     18.78309        -0.005570     -0.001144      0.004426
+      5.40295      3.19783     17.30093        -0.018991     -0.001474     -0.006730
+      5.73732      4.54445     18.42873         0.012529      0.015184      0.016726
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/107
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.48269      3.60618     18.35689        -0.019010     -0.005970     -0.006481
+      6.18809      2.96545     18.89599         0.029580     -0.008284      0.045691
+      4.47902      3.49425     18.78191        -0.011425     -0.001947      0.007949
+      5.46532      3.30585     17.29993        -0.016957      0.000524      0.004565
+      5.79969      4.65247     18.42822         0.012319      0.014222      0.017559
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/108
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.54506      3.71420     18.33011         0.052725     -0.022563     -0.040957
+      6.25046      3.07347     18.87237        -0.003505      0.013601      0.011473
+      4.54139      3.60227     18.75036        -0.063916     -0.006027      0.042641
+      5.52769      3.41387     17.27173         0.001560      0.006412      0.047928
+      5.86206      4.76049     18.40162         0.009911      0.013341      0.017079
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/109
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      4.98376      2.52595     18.32516        -0.033531     -0.005461     -0.030759
+      5.68916      1.88522     18.86428         0.032857     -0.012294      0.034597
+      3.98009      2.41402     18.75017        -0.010080      0.000892      0.005685
+      4.96639      2.22562     17.26565        -0.019236      0.000508      0.043695
+      5.30076      3.57225     18.39236         0.012851      0.019082      0.024773
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/110
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.04612      2.63398     18.32516        -0.029368     -0.004969     -0.035981
+      5.75153      1.99325     18.86428         0.032272     -0.011644      0.035925
+      4.04245      2.52204     18.75017        -0.010332      0.000889      0.006228
+      5.02875      2.33365     17.26565        -0.019141      0.001383      0.046899
+      5.36312      3.68027     18.39236         0.012782      0.019547      0.024381
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/111
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.10849      2.74200     18.33979         0.011760     -0.001306     -0.010049
+      5.81389      2.10127     18.87996         0.015073     -0.006519      0.032079
+      4.10482      2.63007     18.76146        -0.045362     -0.005624      0.036233
+      5.09112      2.44167     17.28208        -0.006059      0.001911      0.004405
+      5.42549      3.78829     18.41079         0.009773      0.014095      0.010952
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/112
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.17086      2.85002     18.34105         0.008611     -0.012889      0.020262
+      5.87626      2.20929     18.88204         0.008389      0.001322      0.024596
+      4.16719      2.73809     18.76379        -0.035423     -0.003967      0.027942
+      5.15349      2.54969     17.28398        -0.006944     -0.001521     -0.007346
+      5.48786      3.89631     18.41262         0.009776      0.013856      0.009127
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/113
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.23322      2.95804     18.33467         0.055673     -0.042415     -0.027233
+      5.93863      2.31731     18.87773        -0.014239      0.020593      0.001358
+      4.22956      2.84611     18.75460        -0.065518     -0.004129      0.047177
+      5.21585      2.65771     17.27585         0.003603      0.003947      0.044506
+      5.55022      4.00434     18.40467         0.009503      0.017305      0.015093
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/114
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.29559      3.06607     18.33360         0.057781     -0.046976     -0.024131
+      6.00099      2.42534     18.87695        -0.016883      0.023638     -0.000278
+      4.29192      2.95413     18.75349        -0.066299     -0.004055      0.047623
+      5.27822      2.76574     17.27507         0.004425      0.002772      0.040463
+      5.61259      4.11236     18.40385         0.009622      0.017239      0.015118
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/115
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.35796      3.17409     18.33413         0.057821     -0.044655     -0.026262
+      6.06336      2.53336     18.87720        -0.014309      0.021930      0.003483
+      4.35429      3.06216     18.75410        -0.066037     -0.004503      0.047005
+      5.34059      2.87376     17.27569         0.003847      0.003597      0.041191
+      5.67496      4.22038     18.40457         0.009888      0.017182      0.015322
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/116
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.42033      3.28211     18.33787         0.017226     -0.034045     -0.032726
+      6.12573      2.64138     18.87895         0.007839      0.004847      0.024817
+      4.41666      3.17018     18.76063        -0.036775     -0.004330      0.025521
+      5.40295      2.98178     17.27934        -0.006080      0.011025      0.049190
+      5.73732      4.32840     18.40958         0.010713      0.014661      0.012124
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/117
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.48269      3.39013     18.35256        -0.026110     -0.016532      0.018414
+      6.18809      2.74940     18.89243         0.023063     -0.001874      0.038223
+      4.47902      3.27820     18.77868        -0.000784     -0.000985     -0.000034
+      5.46532      3.08980     17.29581        -0.017563     -0.000640      0.000025
+      5.79969      4.43643     18.42425         0.012436      0.014205      0.014213
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/118
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.54506      3.49816     18.33670         0.002114     -0.019218     -0.011641
+      6.25046      2.85743     18.87720         0.015628      0.000852      0.030155
+      4.54139      3.38622     18.76096        -0.021855     -0.003983      0.012671
+      5.52769      3.19783     17.27878        -0.010950      0.008136      0.035590
+      5.86206      4.54445     18.40896         0.011533      0.012634      0.011875
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/119
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.60743      3.60618     18.33762        -0.011194     -0.010880     -0.019003
+      6.31283      2.96545     18.87750         0.022790     -0.005086      0.034964
+      4.60376      3.49425     18.76289        -0.011372     -0.004319      0.003611
+      5.59005      3.30585     17.27920        -0.014153      0.013039      0.049541
+      5.92442      4.65247     18.41042         0.011768      0.011016      0.010668
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/120
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.66979      3.71420     18.33755        -0.014396     -0.004676     -0.004883
+      6.37519      3.07347     18.87719         0.025361     -0.007564      0.037418
+      4.66612      3.60227     18.76276        -0.011614     -0.004683      0.004155
+      5.65242      3.41387     17.27966        -0.014658      0.009726      0.032400
+      5.98679      4.76049     18.41062         0.011709      0.009910      0.010427
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/121
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.10849      2.52595     18.36171         0.026341     -0.026448     -0.036273
+      5.81389      1.88522     18.90350         0.002568      0.010387      0.013464
+      4.10482      2.41402     18.78376        -0.041900     -0.000859      0.031683
+      5.09112      2.22562     17.30277        -0.006069      0.001102      0.045018
+      5.42549      3.57225     18.42975         0.010717      0.018965      0.025103
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/122
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.17086      2.63398     18.36242        -0.001669     -0.008631      0.018881
+      5.87626      1.99325     18.90293         0.015793      0.000766      0.028796
+      4.16719      2.52204     18.78666        -0.018824     -0.000194      0.016086
+      5.15349      2.33365     17.30539        -0.013692     -0.006989     -0.006981
+      5.48786      3.68027     18.43163         0.011040      0.016656      0.019801
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/123
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.23322      2.74200     18.33819         0.009949     -0.011983     -0.044638
+      5.93863      2.10127     18.87820         0.016747     -0.006248      0.033772
+      4.22956      2.63007     18.76006        -0.043673     -0.005079      0.033682
+      5.21585      2.44167     17.27946        -0.006640      0.009077      0.039681
+      5.55022      3.78829     18.40850         0.010291      0.015382      0.014638
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/124
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.29559      2.85002     18.33920        -0.001228     -0.014733     -0.043728
+      6.00099      2.20929     18.87871         0.022321     -0.009042      0.039873
+      4.29192      2.73809     18.76205        -0.033685     -0.004461      0.026100
+      5.27822      2.54969     17.28062        -0.009985      0.009795      0.038903
+      5.61259      3.89631     18.40961         0.010836      0.015555      0.014431
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/125
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.35796      2.95804     18.33410         0.056974     -0.041612     -0.022465
+      6.06336      2.31731     18.87734        -0.015964      0.022260      0.001220
+      4.35429      2.84611     18.75399        -0.066657     -0.004726      0.047424
+      5.34059      2.65771     17.27551         0.004599      0.003962      0.042380
+      5.67496      4.00434     18.40440         0.009416      0.016650      0.014859
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/126
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.42033      3.06607     18.33084         0.045773     -0.043493     -0.038525
+      6.12573      2.42534     18.87354        -0.008769      0.019051      0.007744
+      4.41666      2.95413     18.75138        -0.060399     -0.003595      0.042247
+      5.40295      2.76574     17.27207         0.001343      0.004101      0.049943
+      5.73732      4.11236     18.40032         0.010671      0.018819      0.018760
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/127
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.48269      3.17409     18.33405         0.059900     -0.041358     -0.025343
+      6.18809      2.53336     18.87706        -0.013921      0.021971      0.005201
+      4.47902      3.06216     18.75414        -0.065512     -0.005294      0.045829
+      5.46532      2.87376     17.27565         0.003799      0.004156      0.041277
+      5.79969      4.22038     18.40468         0.010084      0.016540      0.015430
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/128
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.54506      3.28211     18.33781         0.009367     -0.029071     -0.027955
+      6.25046      2.64138     18.87860         0.010950      0.003137      0.028490
+      4.54139      3.17018     18.76103        -0.032315     -0.004784      0.021422
+      5.52769      2.98178     17.27941        -0.007523      0.010643      0.045544
+      5.86206      4.32840     18.40959         0.011307      0.014077      0.012191
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/129
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.60743      3.39013     18.33772        -0.009861     -0.019387     -0.010478
+      6.31283      2.74940     18.87731         0.024417     -0.005220      0.040277
+      4.60376      3.27820     18.76279        -0.013058     -0.003658      0.006481
+      5.59005      3.08980     17.27990        -0.014950      0.007901      0.030474
+      5.92442      4.43643     18.40949         0.012299      0.013320      0.012687
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/130
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.66979      3.49816     18.33603         0.009448     -0.016738     -0.018018
+      6.37519      2.85743     18.87626         0.017017     -0.000318      0.033668
+      4.66612      3.38622     18.75966        -0.028135     -0.005007      0.017322
+      5.65242      3.19783     17.27814        -0.010189      0.006924      0.031540
+      5.98679      4.54445     18.40781         0.011872      0.012989      0.013379
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/131
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.73216      3.60618     18.33351         0.061198     -0.028654     -0.027855
+      6.43756      2.96545     18.87621        -0.010278      0.017976      0.007962
+      4.72849      3.49425     18.75349        -0.067135     -0.007875      0.045061
+      5.71479      3.30585     17.27506         0.004085      0.007115      0.044079
+      6.04916      4.65247     18.40565         0.010203      0.012831      0.012916
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/132
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.79453      3.71420     18.33358         0.056010     -0.024945     -0.024502
+      6.49993      3.07347     18.87599        -0.006972      0.014843      0.009947
+      4.79086      3.60227     18.75396        -0.063137     -0.008101      0.041704
+      5.77715      3.41387     17.27506         0.002638      0.007971      0.044135
+      6.11152      4.76049     18.40605         0.010352      0.011911      0.012222
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/133
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.23322      2.52595     18.33875        -0.000937     -0.007179     -0.023854
+      5.93863      1.88522     18.87880         0.018239     -0.007507      0.032703
+      4.22956      2.41402     18.76225        -0.027624     -0.004580      0.020962
+      5.21585      2.22562     17.28033        -0.010068      0.009765      0.034887
+      5.55022      3.57225     18.41020         0.009917      0.012692      0.011402
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/134
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.29559      2.63398     18.33486         0.060548     -0.031169     -0.035354
+      6.00099      1.99325     18.87754        -0.011038      0.015691      0.005461
+      4.29192      2.52204     18.75499        -0.064024     -0.005374      0.045928
+      5.27822      2.33365     17.27601         0.002865      0.006638      0.046438
+      5.61259      3.68027     18.40535         0.008677      0.015176      0.014447
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/135
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.35796      2.74200     18.33860         0.003435     -0.017667     -0.042595
+      6.06336      2.10127     18.87818         0.021686     -0.008702      0.039538
+      4.35429      2.63007     18.76166        -0.032444     -0.004537      0.024169
+      5.34059      2.44167     17.27995        -0.010206      0.011260      0.043080
+      5.67496      3.78829     18.40921         0.010531      0.014963      0.014482
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/136
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.42033      2.85002     18.33430         0.056740     -0.042321     -0.026345
+      6.12573      2.20929     18.87719        -0.013208      0.019926      0.004898
+      4.41666      2.73809     18.75438        -0.064950     -0.005043      0.045589
+      5.40295      2.54969     17.27566         0.003558      0.005120      0.043013
+      5.73732      3.89631     18.40456         0.009497      0.016390      0.015477
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/137
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.48269      2.95804     18.33065         0.051841     -0.040807     -0.036818
+      6.18809      2.31731     18.87341        -0.009935      0.019440      0.007130
+      4.47902      2.84611     18.75115        -0.061381     -0.004143      0.041799
+      5.46532      2.65771     17.27183         0.001671      0.004323      0.049869
+      5.79969      4.00434     18.40015         0.010401      0.018188      0.018604
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/138
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.54506      3.06607     18.44844         0.024417     -0.019298     -0.004861
+      6.25046      2.42534     18.98944         0.003760      0.008478      0.030095
+      4.54139      2.95413     18.87086        -0.036672     -0.004117      0.031426
+      5.52769      2.76574     17.39244        -0.006000      0.000511     -0.019416
+      5.86206      4.11236     18.52015         0.009727      0.011618      0.013675
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/139
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.60743      3.17409     18.33088         0.059496     -0.041861     -0.040312
+      6.31283      2.53336     18.87373        -0.010980      0.021358      0.007563
+      4.60376      3.06216     18.75104        -0.065511     -0.005119      0.043829
+      5.59005      2.87376     17.27214         0.002630      0.004115      0.049793
+      5.92442      4.22038     18.40057         0.010911      0.018149      0.019092
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/140
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.66979      3.28211     18.35763         0.037384     -0.050959     -0.009713
+      6.37519      2.64138     18.90104        -0.013057      0.028142      0.001631
+      4.66612      3.17018     18.78058        -0.036170     -0.001314      0.022363
+      5.65242      2.98178     17.29955        -0.003569      0.000404      0.038666
+      5.98679      4.32840     18.42774         0.011440      0.017017      0.019858
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/141
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.73216      3.39013     18.33376         0.063729     -0.043548     -0.025058
+      6.43756      2.74940     18.87643        -0.010887      0.020152      0.009143
+      4.72849      3.27820     18.75388        -0.065863     -0.007007      0.043786
+      5.71479      3.08980     17.27524         0.003319      0.006079      0.043641
+      6.04916      4.43643     18.40496         0.010621      0.014902      0.014552
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/142
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.79453      3.49816     18.33336         0.065466     -0.039813     -0.024746
+      6.49993      2.85743     18.87617        -0.011768      0.020719      0.007369
+      4.79086      3.38622     18.75350        -0.066018     -0.007359      0.043430
+      5.77715      3.19783     17.27491         0.003511      0.005481      0.041636
+      6.11152      4.54445     18.40488         0.010674      0.014165      0.013877
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/143
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.85689      3.60618     18.33080         0.066051     -0.032381     -0.039150
+      6.56229      2.96545     18.87363        -0.010419      0.020184      0.007383
+      4.85322      3.49425     18.75060        -0.069363     -0.007021      0.046028
+      5.83952      3.30585     17.27226         0.003577      0.003294      0.043999
+      6.17389      4.65247     18.40148         0.011228      0.015624      0.017817
+ 
+=========PATH==========
+/home/srr516/alkanes-Pt111/Pt-111/methane/PES-exploration/highEDIFF/144
+=========ENERGY========
+ reached required accuracy - stopping structural energy minimisation
+=========Coordinates/Forces=========
+ POSITION                                       TOTAL-FORCE (eV/Angst)
+      5.91926      3.71420     18.33049         0.063104     -0.029899     -0.037654
+      6.62466      3.07347     18.87319        -0.008680      0.018348      0.007814
+      4.91559      3.60227     18.75049        -0.066975     -0.007063      0.044277
+      5.90189      3.41387     17.27191         0.002845      0.003840      0.044517
+      6.23626      4.76049     18.40141         0.011127      0.014758      0.017234
+ 
